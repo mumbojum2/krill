@@ -1,0 +1,13 @@
+{
+  "name": "Krillion Today",
+  "short_name": "Krillion Today",
+  "description": "Today's Krillion answers, spoiler-free hints, and unlimited rare-answer practice. Independent companion site.",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#F6FAFC",
+  "theme_color": "#071B2C",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
